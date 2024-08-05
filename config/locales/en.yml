@@ -1,0 +1,4 @@
+en:
+  custom_video_player:
+    title: "Custom Video Player"
+    description: "Plugin to add support for custom Video.js player and m3u8 files"
